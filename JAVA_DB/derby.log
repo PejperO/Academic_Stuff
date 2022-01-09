@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 09 15:24:15 CET 2022:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585) systemu Derby: instancja a816c00e-017e-3f39-bb92-00000f58ed30
+w katalogu bazy danych D:\UserMP\Documents\00.PROJEKT\Studia\3 SEM\UTP\UTP12_PM_S23034\databaseDerby jdk.internal.loader.ClassLoaders$AppClassLoader@266474c2 
+
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=D:\UserMP\Documents\00.PROJEKT\Studia\3 SEM\UTP\UTP12_PM_S23034
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Uruchomiono program ładujący klasę bazy danych - derby.database.classpath=''
