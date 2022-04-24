@@ -1,4 +1,4 @@
-package pl.pjatk.filip;
+package pl.pjatk.mikolaj;
 
 import java.io.IOException;
 import java.io.InputStream;
